@@ -1,3 +1,3 @@
 # Data_Analyst_Portfolio
 
-This is a simple data analyst project that covers the usage of Pivot Table, Table, Sorting Data, Cleaning Data, Filtering Data, Slicer, and Interactive Dashboard
+This is a collection of my data analysis portfolio, the results and related files of each topic/project already included in each .rar file
